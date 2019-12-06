@@ -18,10 +18,10 @@
   }],
   "env": {
     "DEV_HUB_SFDX_AUTH_URL": {
-      "required": false
+      "required": true
     },
     "SFDX_BUILDPACK_DEBUG" : {
-      "required": false
+      "required": true
     }
   },
   "environments": {
